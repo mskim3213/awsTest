@@ -1,0 +1,25 @@
+{
+  "name": "awstest",
+  "version": "1.0.0",
+  "description": "aws upload test project",
+  "main": "app.js",
+  "bin": {
+    "awstest": "app.js"
+  },
+  "scripts": {
+    "start": "node ./bin/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskim3213/awsTest.git"
+  },
+  "author": "tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskim3213/awsTest/issues"
+  },
+  "homepage": "https://github.com/mskim3213/awsTest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
